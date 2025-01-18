@@ -12,6 +12,7 @@ class Mychild extends Myclass {
  @Override
  public void launchRocket() {
      System.out.println("launching the rocket");
+     System.out.println("Checking git");
  }
 }
 
